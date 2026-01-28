@@ -59,17 +59,21 @@
 
 ---
 ## 📫 How to reach me
-📧 Email: <a href=mailto:aqilaiman058@gmail.com> </a>
-💼 LinkedIn: <a href="https://linkedin.com/in/aqilaiman260">
+📧 Email: <a href="mailto:aqilaiman058@gmail.com">aqilaiman058@gmail.com</a>
+💼 LinkedIn: <a href="https://linkedin.com/in/aqilaiman260" target="_blank" rel="noopener noreferrer">linkedin.com/in/aqilaiman260</a>
 
 ###
 
-<img src="https://raw.githubusercontent.com/ayoqill/ayoqill/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayoqill/ayoqill/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayoqill/ayoqill/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ayoqill/ayoqill/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/a q i l l">
+  <a href="https://open.spotify.com/user/a%20q%20i%20l%20l" target="_blank" rel="noopener noreferrer">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=a%20q%20i%20l%20l&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
