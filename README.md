@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">Hey there, I’m Aqil Aiman 😆</h4>
+<h4 align="center">Hi there, I’m Aqil Aiman 😆</h4>
 
 ###
 
