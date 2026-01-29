@@ -71,11 +71,12 @@
 </picture>
 
 ###
+<h5 align="left">Now Playing:</h5>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/a%20q%20i%20l%20l" target="_blank" rel="noopener noreferrer">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=a%20q%20i%20l%20l&count=5&unique=false" alt="Spotify recently played"  />
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=222cyufe2yvxnsfz4sfmms5kq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=40c33c&bar_color_cover=true">
   </a>
-</div>
+</p>
 
 ###
