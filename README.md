@@ -24,6 +24,8 @@
 ## 📫 How to reach me:
 📧 Email: <a href="mailto:aqilaiman058@gmail.com">aqilaiman058@gmail.com</a><br>
 💼 LinkedIn: <a href="https://linkedin.com/in/aqilaiman260" target="_blank" rel="noopener noreferrer">linkedin.com/in/aqilaiman260</a>
+🌐 Portfolio: <a href="https://aqllaimaa.xyz" target="_blank" rel="noopener noreferrer">aqllaimaa.xyz</a>
+
 
 ###
 
